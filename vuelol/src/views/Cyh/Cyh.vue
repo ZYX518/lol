@@ -1,7 +1,8 @@
 <template>
   <div>
   <h2>标题呀!!</h2>
-    <div>我想在修改一次,啊哈!我在更改呀</div>
+    <div>我想在修改一次,啊哈!</div>
+    <div>阿斯加德卡加斯打卡机的</div>
   </div>
 </template>
 
